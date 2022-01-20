@@ -1,2 +1,2 @@
-### Data Analysis of various public datas
-#### 03.Public_Data_Study 출처: 인프런 사이트/공공데이터로 파이썬 데이터 분석 시작하기 by 박조은
+### Data analysis & visualization using Tableau
+#### 출처 : 패스트 캠퍼스/올인원 패키지:세계 3등에게 배우는 실무 밀착 데이터/전서연
